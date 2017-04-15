@@ -1,4 +1,4 @@
-var threshHigh = 90
+var threshHigh = 85;
 var threshLow = 30;
 
 function getData() {
