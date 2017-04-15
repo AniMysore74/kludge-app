@@ -1,5 +1,5 @@
 var threshHigh = 90
-var threshLow = 45;
+var threshLow = 30;
 
 function getData() {
     var oReq = new XMLHttpRequest();
